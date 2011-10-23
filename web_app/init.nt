@@ -1,0 +1,3 @@
+<http://localhost> <http://kbsportal.com#port> "8000" .
+<http://kbsportal.com/user/1> <http://kbsportal.com#login> "demo" .
+<http://kbsportal.com/user/1> <http://kbsportal.com#password> "demo" .

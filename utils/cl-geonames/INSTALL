@@ -1,0 +1,35 @@
+-----------------
+-- cl-geonames --
+-----------------
+
+
+** Required softwares **
+
+  You will need :
+
+  - ASDF : http://www.cliki.net/asdf
+  - drakma : http://weitz.de/drakma/
+
+
+
+** ASDF **
+
+  In /usr/share/common-lisp/systems, create a symbolic link
+  to the system definition file (cl-geonames.asd)
+  or
+  add the cl-geonames directory to *central-directory* of ASDF :
+  (push "/directory/cl-geonames/" asdf:*central-registry*)
+
+
+
+** Load **
+
+  In the Lisp system :
+  (asdf:operate 'asdf:load-op :cl-geonames)
+
+
+
+Local variables:
+mode: outline
+paragraph-separate: "[  ^L]*$"
+end:

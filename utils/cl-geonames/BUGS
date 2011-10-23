@@ -1,0 +1,36 @@
+-----------------
+-- cl-geonames --
+-----------------
+
+* Webservice geo-postal-code-country-info *
+
+
+CL-USER> (cl-geonames::geo-postal-code-country-info)
+URL http://ws.geonames.org/postalCodeCountryInfo?
+invalid array index 0 for "" (should be nonnegative and <0)
+   [Condition of type SIMPLE-TYPE-ERROR]
+
+Restarts:
+  0: [ABORT-REQUEST] Abort handling SLIME request.
+  1: [ABORT] Exit debugger, returning to top level.
+
+Backtrace:
+  0: (JSON::READ-JSON-NUMBER #<SB-IMPL::STRING-INPUT-STREAM {AD5C081}>)
+  1: (JSON:DECODE-JSON-FROM-STRING
+      "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>
+<geonames>
+<country>
+<countryCode>AS</countryCode>
+<countryName>American Samoa</countryName>
+<numPostalCodes>1</numPostalCodes>
+<minPostalCode>96799</minPostalCode>
+<maxPostalCode>96799</maxPostalCode>
+</country> ..)
+  2: (SB-INT:EVAL-IN-LEXENV
+      (CL-GEONAMES::GEO-POSTAL-CODE-COUNTRY-INFO)
+      #<NULL-LEXENV>)
+  3: (SWANK::EVAL-REGION
+
+
+
+

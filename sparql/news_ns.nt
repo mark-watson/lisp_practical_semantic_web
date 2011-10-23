@@ -1,0 +1,104 @@
+!test_news:usa_flooding_dc_16 !kb:containsCity "Burlington" .
+!test_news:usa_flooding_dc_16 !kb:containsCity "Denver" .
+!test_news:usa_flooding_dc_16 !kb:containsCity "St. Paul" .
+!test_news:usa_flooding_dc_16 !kb:containsCity "Chicago" .
+!test_news:usa_flooding_dc_16 !kb:containsCity "Quincy" .
+!test_news:usa_flooding_dc_16 !kb:containsCity "CHICAGO" .
+!test_news:usa_flooding_dc_16 !kb:containsCity "Iowa City" .
+!test_news:usa_flooding_dc_16 !kb:containsRegion "U.S. Midwest" .
+!test_news:usa_flooding_dc_16 !kb:containsRegion "Midwest" .
+!test_news:usa_flooding_dc_16 !kb:containsCountry "United States" .
+!test_news:usa_flooding_dc_16 !kb:containsCountry "Japan" .
+!test_news:usa_flooding_dc_16 !kb:containsState "Minnesota" .
+!test_news:usa_flooding_dc_16 !kb:containsState "Illinois" .
+!test_news:usa_flooding_dc_16 !kb:containsState "Mississippi" .
+!test_news:usa_flooding_dc_16 !kb:containsState "Iowa" .
+!test_news:usa_flooding_dc_16 !kb:containsOrganization "National Guard" .
+!test_news:usa_flooding_dc_16 !kb:containsOrganization "U.S. Department of Agriculture" .
+!test_news:usa_flooding_dc_16 !kb:containsOrganization "White House" .
+!test_news:usa_flooding_dc_16 !kb:containsOrganization "Chicago Board of Trade" .
+!test_news:usa_flooding_dc_16 !kb:containsOrganization "Department of Transportation" .
+!test_news:usa_flooding_dc_16 !kb:containsPerson "Dena Gray-Fisher" .
+!test_news:usa_flooding_dc_16 !kb:containsPerson "Donald Miller" .
+!test_news:usa_flooding_dc_16 !kb:containsPerson "Glenn Hollander" .
+!test_news:usa_flooding_dc_16 !kb:containsPerson "Rich Feltes" .
+!test_news:usa_flooding_dc_16 !kb:containsPerson "George W. Bush" .
+!test_news:usa_flooding_dc_16 !kb:containsIndustryTerm "food inflation" .
+!test_news:usa_flooding_dc_16 !kb:containsIndustryTerm "food" .
+!test_news:usa_flooding_dc_16 !kb:containsIndustryTerm "finance ministers" .
+!test_news:usa_flooding_dc_16 !kb:containsIndustryTerm "oil" .
+!test_news:usa_politics_dc_2 !kb:containsCity "Washington" .
+!test_news:usa_politics_dc_2 !kb:containsCity "FLINT" .
+!test_news:usa_politics_dc_2 !kb:containsCity "Baghdad" .
+!test_news:usa_politics_dc_2 !kb:containsCity "Arlington" .
+!test_news:usa_politics_dc_2 !kb:containsCity "Flint" .
+!test_news:usa_politics_dc_2 !kb:containsCountry "United States" .
+!test_news:usa_politics_dc_2 !kb:containsCountry "Afghanistan" .
+!test_news:usa_politics_dc_2 !kb:containsCountry "Iraq" .
+!test_news:usa_politics_dc_2 !kb:containsState "Illinois" .
+!test_news:usa_politics_dc_2 !kb:containsState "Virginia" .
+!test_news:usa_politics_dc_2 !kb:containsState "Arizona" .
+!test_news:usa_politics_dc_2 !kb:containsState "Michigan" .
+!test_news:usa_politics_dc_2 !kb:containsOrganization "White House" .
+!test_news:usa_politics_dc_2 !kb:containsOrganization "Obama administration" .
+!test_news:usa_politics_dc_2 !kb:containsOrganization "Iraqi government" .
+!test_news:usa_politics_dc_2 !kb:containsPerson "David Petraeus" .
+!test_news:usa_politics_dc_2 !kb:containsPerson "John McCain" .
+!test_news:usa_politics_dc_2 !kb:containsPerson "Hoshiyar Zebari" .
+!test_news:usa_politics_dc_2 !kb:containsPerson "Barack Obama" .
+!test_news:usa_politics_dc_2 !kb:containsPerson "George W. Bush" .
+!test_news:usa_politics_dc_2 !kb:containsPerson "Carly Fiorina" .
+!test_news:usa_politics_dc_2 !kb:containsIndustryTerm "oil prices" .
+!test_news:worldleaders_trust_dc_1 !kb:containsCity "WASHINGTON" .
+!test_news:worldleaders_trust_dc_1 !kb:containsCountry "United States" .
+!test_news:worldleaders_trust_dc_1 !kb:containsCountry "Pakistan" .
+!test_news:worldleaders_trust_dc_1 !kb:containsCountry "Islamic Republic of Iran" .
+!test_news:worldleaders_trust_dc_1 !kb:containsState "Maryland" .
+!test_news:worldleaders_trust_dc_1 !kb:containsOrganization "University of Maryland" .
+!test_news:worldleaders_trust_dc_1 !kb:containsOrganization "United Nations" .
+!test_news:worldleaders_trust_dc_1 !kb:containsPerson "Ban Ki-moon" .
+!test_news:worldleaders_trust_dc_1 !kb:containsPerson "Gordon Brown" .
+!test_news:worldleaders_trust_dc_1 !kb:containsPerson "Hu Jintao" .
+!test_news:worldleaders_trust_dc_1 !kb:containsPerson "George W. Bush" .
+!test_news:worldleaders_trust_dc_1 !kb:containsPerson "Pervez Musharraf" .
+!test_news:worldleaders_trust_dc_1 !kb:containsPerson "Vladimir Putin" .
+!test_news:worldleaders_trust_dc_1 !kb:containsPerson "Steven Kull" .
+!test_news:worldleaders_trust_dc_1 !kb:containsPerson "Mahmoud Ahmadinejad" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCity "Sao Paulo" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCity "Kuala Lumpur" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsRegion "Midwest" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCountry "United States" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCountry "Britain" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCountry "Saudi Arabia" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCountry "Spain" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCountry "Italy" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCountry "India" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCountry "France" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCountry "Canada" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCountry "Russia" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCountry "Germany" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCountry "China" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCountry "Japan" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCountry "South Korea" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsOrganization "Federal Reserve Bank" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsOrganization "European Union" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsOrganization "European Central Bank" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsOrganization "European Commission" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsPerson "Lee Myung-bak" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsPerson "Rajat Nag" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsPerson "Luiz Inacio Lula da Silva" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsPerson "Jeffrey Lacker" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCompany "Development Bank Managing" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCompany "Reuters" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsCompany "Richmond Federal Reserve Bank" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsIndustryTerm "central bank" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsIndustryTerm "food" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsIndustryTerm "energy costs" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsIndustryTerm "finance ministers" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsIndustryTerm "crude oil prices" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsIndustryTerm "oil prices" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsIndustryTerm "oil shock" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsIndustryTerm "food prices" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsIndustryTerm "Finance ministers" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsIndustryTerm "Oil prices" .
+<http://news.yahoo.com/s/nm/20080616/bs_nm/global_economy_dc_4 !kb:containsIndustryTerm "oil" .

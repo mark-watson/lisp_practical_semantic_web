@@ -1,0 +1,38 @@
+-----------------
+-- cl-geonames --
+-----------------
+
+A Common Lisp wrapper around the geonames web service.
+
+http://www.geonames.org
+
+and web services available :
+
+http://www.geonames.org/export/web-services.html
+
+
+
+
+Features of Geoname Web Services API supported :
+
+[x] Search
+[x] Postal Code Search
+[x] Placename lookup with postalcode (JSON)
+[x] Find nearby postal codes / reverse geocoding
+[x] Postal code country info
+[x] Find nearby place name / reverse geocoding
+[x] Country Info (Bounding Box, Capital, Area in square km, Population)
+[x] CountryCode / reverse geocoding
+[x] Country Subdivision / reverse geocoding
+[x] Elevation - SRTM3
+[x] Elevation - GTOPO30
+[x] Timezone 
+
+
+
+Local variables:
+mode: outline
+paragraph-separate: "[  ^L]*$"
+end:
+
+

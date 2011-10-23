@@ -1,0 +1,30 @@
+-----------------
+-- cl-geonames --
+-----------------
+
+
+** Version 0.1 **
+
+* WebService *
+
+  Implements :
+  - search
+  - postal code search
+  - placename lookup
+  - find near by postal code
+  - find near by postal code geocoding
+  - postal code country info
+  - find near by place name
+  - country info
+  - country code
+  - country subdivision
+  - elevation srtm3
+  - elevation gtopo30
+
+
+
+
+Local variables:
+mode: outline
+paragraph-separate: "[  ^L]*$"
+end:
